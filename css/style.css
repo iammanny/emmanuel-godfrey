@@ -1,0 +1,23 @@
+body {
+  background-color: white;
+  color: black;
+}
+
+#navbar {
+  border-right: solid;
+border-left: solid;
+border-color: #999;
+position:fixed;
+left:0;
+}
+
+.nav-link {
+list-style: none;
+line-height: 40px;
+display: block;
+background-color: silver;
+padding: 5px;
+border: 2px solid #ddd;
+}
+
+  }
